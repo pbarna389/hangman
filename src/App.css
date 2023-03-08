@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.App > div {
+  margin-bottom: 20px;
+}
+
+input {
+  text-align: center;
+}
